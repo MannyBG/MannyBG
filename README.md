@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Temp/Humidity Using Arduino
+- 🔭 I’m currently working on ... Temp/Humidity Sensor Using Arduino
 - 🌱 I’m currently learning ... C/C++
 - 👯 I’m looking to collaborate on ... C/C++
 - 🤔 I’m looking for help with ... Python 3
