@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Temp/Humidity Sensor Using Arduino
-- 🌱 I’m currently learning ... C/C++
-- 👯 I’m looking to collaborate on ... C/C++
-- 🤔 I’m looking for help with ... Python 3
+- 🔭 I’m currently working with ... Arduino Using Assembly & C/C++
+- 🌱 I’m currently learning ... Computer Architecture
+- 👯 I’m looking to collaborate on ... FPGA Projects
+- 🤔 I’m looking for help with ... Linux
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... Always Measure the Cost!
